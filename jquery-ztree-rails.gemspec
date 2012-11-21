@@ -12,3 +12,4 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = '>= 1.8.23'
   s.add_dependency "railties", '>= 3.2.8'
   s.add_dependency "jquery-rails"
+end
