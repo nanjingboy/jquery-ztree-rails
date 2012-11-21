@@ -33,3 +33,10 @@ This gem packages the jQuery [zTree](http://www.ztree.me/) plugin for easy use w
    *= require ztree
    */
   ```
+
+## Example
+
+  ```javascript
+  $.fn.zTree.init($('#treeId'), setting, nodes);
+  ```
+
