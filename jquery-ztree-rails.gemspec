@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email = ['hzlhu.dargon@gmail.com']
   s.homepage = 'https://github.com/NanJingBoy/jquery-ztree-rails'
   s.summary = 'jquery ztree packaged for the Rails asset pieline'
-  s.description = "jquery ztree resources files packaged for the Rails 3.2+ asset pieline"
+  s.description = "jquery ztree resources files packaged for the Rails asset pieline"
 
   s.files = `git ls-files`.split("\n")
 
