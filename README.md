@@ -51,4 +51,4 @@ update by alfred.sang
 
 ## License
 
-this gem is released under the (MIT License)[http://www.opensource.org/licenses/MIT].
+this gem is released under the [MIT License](http://www.opensource.org/licenses/MIT).
