@@ -2,6 +2,13 @@
 
 This gem packages the jQuery [zTree](http://www.ztree.me/) plugin for easy use with the Rails asset pipleine.
 
+## Update Info
+
+- new version with zTree 3.5.15 build
+- add images/diy folder
+
+update by alfred.sang
+
 ## General Installation
 
 1. Add to the assets group in your Gemfile:
@@ -40,3 +47,6 @@ This gem packages the jQuery [zTree](http://www.ztree.me/) plugin for easy use w
   $.fn.zTree.init($('#treeId'), setting, nodes);
   ```
 
+## License
+
+this gem is released under the (MIT License)[http://www.opensource.org/licenses/MIT].
