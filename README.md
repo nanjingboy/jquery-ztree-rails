@@ -4,6 +4,8 @@ This gem packages the jQuery [zTree](http://www.ztree.me/) plugin for easy use w
 
 ## Update Info
 
+v1.1.0
+
 - new version with zTree 3.5.15 build
 - add images/diy folder
 
