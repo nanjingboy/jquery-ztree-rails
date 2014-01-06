@@ -32,7 +32,14 @@ update by alfred.sang
   //= require ztree.excheck
   //= require ztree.exedit
   //= require ztree.exhide
-  //= require ztree.all # include ztree.core, ztree.excheck, ztree.exedit
+  ```
+
+  or
+
+  include ztree.core, ztree.excheck, ztree.exedit
+
+  ```javascript
+  //= require ztree.all
   ```
 
 1. Add the stylesheets to `application.css`:
